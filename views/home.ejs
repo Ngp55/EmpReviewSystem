@@ -44,13 +44,27 @@
                 <div class="reviewBox">
 
                         <% for(let review of reviews ) {%>
-                            <div class="card">
-                                <h5 class="cls-txt card-content">Review: <%= review.content %>
-                                </h5>
-                                <p class="cls-txt">Review by: <%= review.name %>
-                                </p>
+                            
+                            <%if(locals.user.isAdmin){%>
+                                <div class="card">
+                                    <h5 class="cls-txt card-content">Review: <%= review.content %>
+                                    </h5>
+                                    <p class="cls-txt">Review by: <%= review.name %>
+                                    </p>
+    
+                                </div>
 
-                            </div>
+                                <%}else{%>  
+                                    <div class="card">
+                                        <h5 class="cls-txt card-content">Review: <%= review.content %>
+                                        </h5>
+                                        <p class="cls-txt">Review by: <%= review.name %>
+                                        </p>
+        
+                                    </div>
+
+                                <%}%>
+
                             <%}%>
                 </div>
             </div>
