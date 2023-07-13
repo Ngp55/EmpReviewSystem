@@ -2,13 +2,13 @@
 # Description
 Our full stack app is a comprehensive solution designed to streamline and enhance the employee review process. With a range of powerful features, it empowers administrators to efficiently manage reviews while promoting accountability, fairness, and employee growth. Here are the key enhancements incorporated into our app:<br />
 # Technology used
-  Node.js
-  Express.js
-  MongoDB
-  EJS
-  JavaScript
-  HTML
-  CSS
+  Node.js<br />
+  Express.js<br />
+  MongoDB<br />
+  EJS<br />
+  JavaScript<br />
+  HTML<br />
+  CSS<br />
 # Features
 1.User Roles:
 The app supports multiple user roles, including admin, employee, and reviewer. Each role is equipped with specific permissions and capabilities within the system, ensuring a tailored and secure user experience.
