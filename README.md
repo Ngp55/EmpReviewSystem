@@ -41,6 +41,20 @@ Gain valuable insights into employee performance trends and areas for improvemen
 Protect sensitive employee data with our robust security measures. The app incorporates strong authentication and authorization mechanisms, ensuring that only authorized individuals can access and modify system functionalities. Your data's integrity and confidentiality are our top priority
 
 # Screenshot
+  ## Pages of EmpReviewSystem
+  ![adminpage](https://github.com/Ngp55/EmpReviewSystem/assets/40921926/57618db7-be94-496d-82a1-0e1727aa0c5c)
+  
+![assigninwork](https://github.com/Ngp55/EmpReviewSystem/assets/40921926/1416df8f-8af9-4fa9-9a1a-f4694e7d575d)
+
+![assigninwork](https://github.com/Ngp55/EmpReviewSystem/assets/40921926/1b46589c-ae0e-442e-94f4-15b5a5e43dcc)
+
+![employee list](https://github.com/Ngp55/EmpReviewSystem/assets/40921926/cb073b5f-70a8-4b2c-a60d-a9d33bf218c9)
+
+![userhome](https://github.com/Ngp55/EmpReviewSystem/assets/40921926/3b10300b-f5b7-490c-b4c2-65a922698bd3)
+
+
+
+
   ## User Model :->
 ![user model](https://github.com/Ngp55/EmpReviewSystem/assets/40921926/026fae1d-88f2-4d2a-8cc4-69d3e11f60b2)
   ## Review Model :->
