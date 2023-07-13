@@ -45,3 +45,7 @@ Protect sensitive employee data with our robust security measures. The app incor
 ![user model](https://github.com/Ngp55/EmpReviewSystem/assets/40921926/026fae1d-88f2-4d2a-8cc4-69d3e11f60b2)
   ## Review Model :->
 ![review model](https://github.com/Ngp55/EmpReviewSystem/assets/40921926/a69968c2-7037-4159-a040-2a9287072639)
+
+  ## Folder Structure
+  ![folderst](https://github.com/Ngp55/EmpReviewSystem/assets/40921926/a84ff3cb-b60e-4308-8f58-68815b98b699)
+
