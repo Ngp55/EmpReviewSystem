@@ -42,14 +42,16 @@ Protect sensitive employee data with our robust security measures. The app incor
 
 # Screenshot
   ## Pages of EmpReviewSystem
+  <b> Admin HomePage
   ![adminpage](https://github.com/Ngp55/EmpReviewSystem/assets/40921926/57618db7-be94-496d-82a1-0e1727aa0c5c)
-  
+  <b> AssignWork
 ![assigninwork](https://github.com/Ngp55/EmpReviewSystem/assets/40921926/1416df8f-8af9-4fa9-9a1a-f4694e7d575d)
-
-![assigninwork](https://github.com/Ngp55/EmpReviewSystem/assets/40921926/1b46589c-ae0e-442e-94f4-15b5a5e43dcc)
-
+<b> EmployeeList 
 ![employee list](https://github.com/Ngp55/EmpReviewSystem/assets/40921926/cb073b5f-70a8-4b2c-a60d-a9d33bf218c9)
+<b> addEmployee
+![addemplyoee](https://github.com/Ngp55/EmpReviewSystem/assets/40921926/61b9dc26-6b80-4d31-add4-40561e790385)
 
+<b> UserHome
 ![userhome](https://github.com/Ngp55/EmpReviewSystem/assets/40921926/3b10300b-f5b7-490c-b4c2-65a922698bd3)
 
 
