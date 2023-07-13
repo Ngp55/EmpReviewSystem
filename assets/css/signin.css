@@ -1,0 +1,88 @@
+/* signin.css */
+
+/* Reset default margin and padding */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Set background color and center the content */
+body {
+  background-color: #f0f2f5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.mainContainer {
+  background-color: #fff;
+  width: 400px;
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 40px;
+  margin: auto; /* Add this line to center the container */
+  border-radius: 70px;
+  border: 10px solid green;
+}
+
+#logo-pic {
+  width: 95px;
+  height: 30px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+form input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.forgetPassword a {
+  color: #385898;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.submitButtons button {
+  background-color: #1877f2;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.extraStuff {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.small {
+  font-size: 14px;
+  margin-right: 5px;
+}
+
+a {
+  color: #385898;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: bold;
+}

@@ -1,0 +1,66 @@
+.mainContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .companyLogo h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .formInput {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 4px;
+  }
+  
+  .formInput h1 {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .formInput input[type="email"],
+  .formInput input[type="password"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: flex-start;
+  }
+  
+  .submitButtons button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .submitButtons button:hover {
+    background-color: #45a049;
+  }
+  
+  .extraStuff {
+    margin-top: 20px;
+  }
+  
+  .extraStuff small {
+    font-size: 14px;
+  }
+  
+  .extraStuff a {
+    color: blue;
+    text-decoration: none;
+    margin-left: 5px;
+  }
+  

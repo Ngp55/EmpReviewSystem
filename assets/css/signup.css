@@ -1,0 +1,82 @@
+/* CSS for Facebook or Instagram look and feel */
+
+/* Reset default form styles */
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: #f0f2f5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  }
+  
+  /* Main container */
+  .main-container {
+    background-color: #fff;
+    width: 400px;
+    border-radius: 8px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 400px;
+    position: relative;
+    left: 50%;
+    margin: auto; /* Add this line to center the container */
+    border-radius: 70px;
+    border: 10px solid green;
+    
+  }
+  
+  /* Form container */
+  form {
+    width: 400px;
+    background-color: #fff;
+    border: 1px solid #dddfe2;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1);
+    border: 5px solid green;
+    border-radius: 50px;
+  }
+  
+  /* Form input fields */
+  input[type="text"],
+  input[type="email"],
+  input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #dddfe2;
+    border-radius: 3px;
+    font-size: 14px;
+  }
+  
+  /* Submit button */
+  input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #1877f2; /* Facebook blue: #1877f2, Instagram gradient: linear-gradient(120deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d); */
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #1652c0; /* Darker shade of the main color */
+  }
+  
+  /* Placeholder text color */
+  input::placeholder {
+    color: #999;
+  }
+  
+  /* Focus styles */
+  input:focus {
+    outline: none;
+    border-color: #4b9ff5; /* Lighter shade of the main color */
+    box-shadow: 0px 0px 5px rgba(75, 159, 245, 0.3);
+  }
+  

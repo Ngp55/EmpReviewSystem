@@ -1,0 +1,30 @@
+
+@keyframes slide {
+    0% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+    100% {
+      transform: translateY(0);
+    }
+  }
+  
+  /* footer {
+    animation: slide 2s infinite;
+  } */
+
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 15px;
+    width: 100%;
+    background-color: rgb(50, 148, 79);
+    color: white;
+    text-align: center;
+    font-size: 13px;
+    
+    animation: slide 1s infinite;
+}
